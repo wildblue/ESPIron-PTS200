@@ -145,61 +145,61 @@ static constexpr std::array<const char *, DICT___SIZE> dictionary = {
     lang_de_de::T_OK,
     lang_de_de::T_Ramping,
     lang_de_de::T_PwrRamp_label,
-    lang_en_us::T_PwrRamp_hint,
-    lang_en_us::T_return,
-    lang_en_us::T_PDVoltage,
-    lang_en_us::T_QCMode,
-    lang_en_us::T_QCVoltage,
-    lang_en_us::T_sec,
-    lang_en_us::T_SaveLast_box,
-    lang_en_us::T_SaveLast_hint,
-    lang_en_us::T_Settings,
-    lang_en_us::T_setT,
-    lang_en_us::T_Standby,
+    lang_de_de::T_PwrRamp_hint,
+    lang_de_de::T_return,
+    lang_de_de::T_PDVoltage,
+    lang_de_de::T_QCMode,
+    lang_de_de::T_QCVoltage,
+    lang_de_de::T_sec,
+    lang_de_de::T_SaveLast_box,
+    lang_de_de::T_SaveLast_hint,
+    lang_de_de::T_Settings,
+    lang_de_de::T_setT,
+    lang_de_de::T_Standby,
 // Notes goes below
-    lang_en_us::T_Note_QCWarn,
-    lang_en_us::T_Temp_SaveLastWrkDescr
+    lang_de_de::T_Note_QCWarn,
+    lang_de_de::T_Temp_SaveLastWrkDescr
 };
 
 // Main Configuration menu items
 static constexpr std::array<const char *, MENU_MAIN_CFG_SIZE> menu_MainConfiguration = {
-    lang_en_us::T_TempSettings,
-    lang_en_us::T_TimersSettings,
-    lang_en_us::T_TipSettings,
-    lang_en_us::T_PowerSupply,
-    lang_en_us::T_Information,
-    lang_en_us::T_return
+    lang_de_de::T_TempSettings,
+    lang_de_de::T_TimersSettings,
+    lang_de_de::T_TipSettings,
+    lang_de_de::T_PowerSupply,
+    lang_de_de::T_Information,
+    lang_de_de::T_return
 };
 
 // Temperature menu items
 static constexpr std::array<const char *, MENU_TEMPERATURE_CFG_SIZE> menu_TemperatureOpts = {
-    lang_en_us::T_TempDefltWrk,
-    lang_en_us::T_TempStandby,
-    lang_en_us::T_TempBoost,
-    lang_en_us::T_SaveLastT,
-    lang_en_us::T_return
+    lang_de_de::T_TempDefltWrk,
+    lang_de_de::T_TempStandby,
+    lang_de_de::T_TempBoost,
+    lang_de_de::T_SaveLastT,
+    lang_de_de::T_return
 };
 
 // Timeout menu items
 static constexpr std::array<const char *, MENU_TIMEOUTS_CFG_SIZE> menu_TimeoutOpts = {
-    lang_en_us::T_TimeStandby,
-    lang_en_us::T_TimeIdle,
-    lang_en_us::T_TimeSuspend,
-    lang_en_us::T_TimeBoost,
-    lang_en_us::T_return
+    lang_de_de::T_TimeStandby,
+    lang_de_de::T_TimeIdle,
+    lang_de_de::T_TimeSuspend,
+    lang_de_de::T_TimeBoost,
+    lang_de_de::T_return
 };
 
 // Power Control menu items
 static constexpr std::array<const char *, MENU_PWR_CONTROL_CFG_SIZE> menu_PwrControlOpts = {
-    lang_en_us::T_PwrPD,
-    lang_en_us::T_PwrQC,
-    lang_en_us::T_PwrRamp,
-    lang_en_us::T_return
+    lang_de_de::T_PwrPD,
+    lang_de_de::T_PwrQC,
+    lang_de_de::T_PwrRamp,
+    lang_de_de::T_return
 };
 
 // QC Selector
 static constexpr std::array<const char *, 3> menu_QCFunctionOpts = {
-    lang_en_us::T_none,
+    lang_de_de::T_none,
     "QC3",
     "QC2"
 };
