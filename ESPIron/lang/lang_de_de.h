@@ -126,7 +126,7 @@ static constexpr const char* T_PwrRamp_hint = "Sanftes Einschalten, um das Eingr
 
 
 
-} // end  of namespace lang_en_us
+} // end  of namespace lang_de_de
 
 /**
  * @brief general purpose dictionary
